@@ -1,7 +1,9 @@
 d3\_calendar\_clock
 ===================
 
-Contained is one d3 javascript object, under AppendedLineChart.js, that explicitly explains autocorrelograms of hourly demand at various lags. Enjoy.
+Contained is one d3 javascript object, under AppendedLineChart.js, that explicitly explains autocorrelograms of hourly demand at various lags.
+
+View the visualization [here](http://danielvizzini.com/d3_appended_line_chart.html).
 
 # The MIT License
 
