@@ -1,0 +1,51 @@
+mean of inter-week growth: 0.0751351691315
+std of inter-week growth: 0.217052867024
+
+last three weeks, starting on Sunday at 4 am, as they are in rest of analysis: 
+[1346 1340 1228]
+last three weeks, starting on Thursday at midnight: 
+[1551 1183 1292]
+
+predicting past three weeks with moving average:
+predicting these 3 weeks using 4-week lookback, which yields a 5.81% return
+[1062 1109 1157]
+predicting these 3 weeks using 5-week lookback, which yields a 2.90% return
+[ 977 1016 1042]
+predicting these 3 weeks using 6-week lookback, which yields a -3.05% return
+[806 793 790]
+predicting these 3 weeks using 7-week lookback, which yields a 7.95% return
+[1324 1289 1359]
+predicting these 3 weeks using 8-week lookback, which yields a 6.22% return
+[1231 1309 1283]
+predicting these 3 weeks using 9-week lookback, which yields a 6.21% return
+[1246 1309 1392]
+predicting these 3 weeks using 10-week lookback, which yields a 6.40% return
+[1273 1341 1411]
+predicting these 3 weeks using 11-week lookback, which yields a 4.71% return
+[1159 1214 1268]
+predicting these 3 weeks using 12-week lookback, which yields a 6.73% return
+[1343 1399 1482]
+predicting these 3 weeks using 18-week lookback, which yields a 7.27% return
+[1400 1497 1601]
+
+predicting future three weeks with moving average:
+predicting these 3 weeks using 4-week lookback, which yields a 10.25% return
+[1563 1750 1864]
+predicting these 3 weeks using 5-week lookback, which yields a 6.81% return
+[1396 1531 1668]
+predicting these 3 weeks using 6-week lookback, which yields a 6.42% return
+[1377 1469 1600]
+predicting these 3 weeks using 7-week lookback, which yields a 7.14% return
+[1415 1511 1618]
+predicting these 3 weeks using 8-week lookback, which yields a 5.16% return
+[1300 1380 1457]
+predicting these 3 weeks using 9-week lookback, which yields a 0.94% return
+[1076 1100 1136]
+predicting these 3 weeks using 10-week lookback, which yields a 8.24% return
+[1650 1652 1758]
+predicting these 3 weeks using 11-week lookback, which yields a 6.95% return
+[1541 1645 1653]
+predicting these 3 weeks using 12-week lookback, which yields a 6.88% return
+[1555 1642 1753]
+predicting these 3 weeks using 21-week lookback, which yields a 7.51% return
+[1742 1864 1995]
